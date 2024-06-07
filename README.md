@@ -16,10 +16,16 @@
 
 ## Installation
 #### To get started, clone the repository and install the dependencies:
+#### 1. Clone the repository:
 
-```bash
+    ```bash
     git clone https://github.com/yourusername/news-app.git
     cd news-app
+    ```
+
+#### 2. Install the dependencies:
+
+    ```bash
     npm install
     ```
 
