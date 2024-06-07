@@ -19,8 +19,8 @@
 #### 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/news-app.git
-    cd news-app
+    git clone https://github.com/LORD-JINXXX/React-Multi-Select-Search.git
+    cd react-multi-select-search
     ```
 
 #### 2. Install the dependencies:
