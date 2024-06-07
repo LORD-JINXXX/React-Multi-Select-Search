@@ -25,9 +25,7 @@
 
 #### 2. Install the dependencies:
 
-    ```bash
     npm install
-    ```
 
 ## Customization
 #### For more customization options, refer to the react-select documentation.
