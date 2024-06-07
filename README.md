@@ -18,7 +18,7 @@
 #### To get started, clone the repository and install the dependencies:
 #### 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/LORD-JINXXX/React-Multi-Select-Search.git
     cd react-multi-select-search
     ```
